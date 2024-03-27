@@ -1,0 +1,98 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Doctor"
+						}
+					}
+				]
+			},
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Reprehenderit aliquip deserunt irure consequat voluptate laborum enim adipisicing tempor Lorem sint tempor occaecat deserunt mollit. Labore cillum aute ex anim est et voluptate magna commodo dolor irure."
+						}
+					}
+				]
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"title",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "heading3",
+									"content": {
+										"text": "Cheese"
+									}
+								}
+							]
+						}
+					],
+					[
+						"body",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "paragraph",
+									"content": {
+										"text": "Dolor dolore ex laborum elit dolor amet eu laboris sint ad. Amet irure eu nulla ut excepteur ea officia ex. Tempor ex dolore adipisicing occaecat elit sit magna enim."
+									}
+								}
+							]
+						}
+					],
+					[
+						"image",
+						{
+							"origin": {
+								"id": "main",
+								"url": "https://images.unsplash.com/photo-1600804931749-2da4ce26c869",
+								"width": 3199,
+								"height": 3199
+							},
+							"url": "https://images.unsplash.com/photo-1600804931749-2da4ce26c869",
+							"width": 3199,
+							"height": 3199,
+							"edit": {
+								"zoom": 1,
+								"crop": {
+									"x": 0,
+									"y": 0
+								},
+								"background": "transparent"
+							},
+							"credits": null,
+							"alt": null,
+							"__TYPE__": "ImageContent",
+							"thumbnails": {}
+						}
+					],
+					[
+						"wide",
+						{
+							"__TYPE__": "BooleanContent",
+							"value": true
+						}
+					]
+				]
+			}
+		]
+	}
+]
